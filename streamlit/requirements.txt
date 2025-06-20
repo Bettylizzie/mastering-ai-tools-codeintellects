@@ -96,5 +96,13 @@ watchdog==6.0.0
 weasel==0.4.1
 Werkzeug==3.1.3
 wrapt==1.17.2
+streamlit
+matplotlib
+pandas
+scikit-learn
+tensorflow
+spacy
+numpy
+seaborn
 
 
